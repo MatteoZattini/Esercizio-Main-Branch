@@ -33,3 +33,7 @@ header{
 header img{
     height: 6rem;
 }
+
+.carousel-item{
+    height: 35rem;
+}
